@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "id.ac.polbeng.nadiya.sharedpreferenceexample"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "id.ac.polbeng.nadiya.sharedpreferenceexample"
